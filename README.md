@@ -1,2 +1,2 @@
 # art-resource-project
-romiyo,jahaziel,
+romiyo,jahaziel,lawrence
